@@ -28,9 +28,9 @@
 ```
 
 
+# BEPLOY ON RAILWAY
 
-
-
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/itXmaG?referralCode=SBzf-5)
 
 
 ## DEPLOY ON HEROKU 🚀
